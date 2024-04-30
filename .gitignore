@@ -1,0 +1,7 @@
+.idea/
+
+TorDl/bin/
+TorDl/obj/
+
+*.user
+*.log
